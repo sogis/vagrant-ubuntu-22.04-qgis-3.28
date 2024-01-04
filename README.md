@@ -1,0 +1,1 @@
+# vagrant-ubuntu-22.04-qgis-3.28

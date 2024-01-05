@@ -31,7 +31,7 @@ Upload box / create new version etc. in browser: https://app.vagrantup.com/boxes
 
 Create Vagrantfile:
 ```
-vagrant init sogis/ubuntu-qgis-3.16
+vagrant init sogis/ubuntu-qgis-3.28
 ```
 
 Adjust Vagrantfile:
